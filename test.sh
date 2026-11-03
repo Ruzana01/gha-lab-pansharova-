@@ -5,3 +5,4 @@ if [ "$result" = "Hello, World" ]; then
 else
     echo "Тест провален: получили '$result'"
     exit 1
+fi
